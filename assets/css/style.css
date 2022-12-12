@@ -5,23 +5,26 @@
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: #eeeeea;
 }
 
 .header {
-    padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    padding: 25px;
+    font-family: 'Lato', 'Montserat', 'Playfair display', 'Lucida Sans', Arial, sans-serif;
+    background-color: #0bb9ab;
     color: #ffffff;
 }
 
 .header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 45px;
+    font-weight: bolder;
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #fffefe;
+    font-style: italic;
+    font-weight: lighter;
 }
 
 .header div {
@@ -54,7 +57,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("../images/london-business-meeting-in-progress.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -82,23 +85,26 @@ p {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    font-family: 'lato', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #d8e0e6;
 }
 
 .benefit-lead {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #076363;
+    text-align: center;
 }
 
 .benefit-brand {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #076363;
+    text-align: center;
 }
 
 .benefit-cost {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #076363;
+    text-align: center;
 }
 
 .benefit-lead h3 {
@@ -139,7 +145,8 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #75c3f3;
+    border-radius: 20px;
     color: #ffffff;
 }
 
@@ -148,7 +155,8 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #f7782f;
+    border-radius: 20px;
     color: #ffffff;
 }
 
@@ -157,7 +165,8 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #8d9e3f;
+    border-radius: 20px;
     color: #ffffff;
 }
 
@@ -192,7 +201,7 @@ p {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
+    text-align: left;
 }
 
 .footer h2 {
